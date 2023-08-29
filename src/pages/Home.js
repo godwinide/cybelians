@@ -66,6 +66,16 @@ function Home() {
                         </div>
                     </div>
                 </div>
+                <div className='contact container'>
+                    <h1 className='title'>Contact Us</h1>
+                    <p>Get In touch with us directly</p>
+                    <div className='address'>
+                        <p><i className='fas fa-location'></i> 414 Fourth St, Annapolis, MD 21403, USA</p>
+                        <p><i className='fas fa-envelope'></i> E-mail: info@cybelians.site</p>
+                    </div>
+                </div>
+                <img className='footer-img' src='/assets/images/slide5.jpg' />
+
             </div>
         </>
     )

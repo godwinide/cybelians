@@ -33,7 +33,7 @@ const ImageCarousel = () => {
             <div className='showcase'>
                 <h1>The Cybelian Organization</h1>
                 <h2>Worldwide Cybelian Movement</h2>
-                <Link to="/register" class="action">JOIN THE CYBELIANS</Link>
+                <Link to="/register" class="action">BECOME A MEMBER</Link>
             </div>
         </div>
     );

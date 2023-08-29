@@ -19,7 +19,7 @@ const Navbar = () => {
                             <Link to="/" className="nav-link">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/about" className="nav-link">About</Link>
+                            <Link to="/about" className="nav-link">About Us</Link>
                         </li>
                         <li className="nav-item">
                             <Link to="/legality" className="nav-link">Legality</Link>
@@ -28,7 +28,7 @@ const Navbar = () => {
                             <Link className="nav-link" to="/marriage">Marriage</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/wedding">Wedding</Link>
+                            <Link className="nav-link" to="/wedding">Wedding Story</Link>
                         </li>
                         {/* Add more links as needed */}
                     </ul>
